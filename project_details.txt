@@ -1,0 +1,19 @@
+End to end Text Summarization
+
+Introduction & GitHub Repository Setup
+Project Template Creation
+Project Setup & Requirements Installation
+Logging, Utils & Exception Module
+Project Workflows
+All Components Notebook Experiment
+All Components Modular Code Implementation
+Training Pipeline
+Prediction Pipeline & User App Creation
+Final CI/CD Deployment on AWS
+
+Prerequisite
+
+Python Programming (OOPs Concepts Required)
+Natural Language Processing (NLP) - Basic Hugging Face
+AWS Account
+Your Dedication
